@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+
+body {
+  background:url("http://cdn.litlepups.net/2016/04/05/husky-dog-nose-face-eyes-wallpaper-background.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align:center;
+  font-family: 'Pangolin', cursive;
+
+}
+
+.home-header {
+    padding-top: 25px;
+    color:white;
+    font-size:50px;
+}
+
+.home-tagline {
+    color:white;
+    font-size:25px;
+} 
+
+.home-button {
+    font-family: 'Pangolin', cursive;
+    color:white;
+    border:3px solid white;
+    background:transparent;
+    padding:5px 5px 5px 5px;
+    font-size:15px;
+}
+
